@@ -5,6 +5,10 @@
   [COLOR dodgerblue][B]CREDITS[/B][/COLOR]
 - Fen, Venom, Mr-Kodi.
 
+  [COLOR dodgerblue][B]Version 2.21.0[/B][/COLOR]
+- Fixed Real Debrid authorization.
+- Other changes/fixes.
+
   [COLOR dodgerblue][B]Version 2.20.0[/B][/COLOR]
 - Changed scraper dialog when fanart clearlogo is enabled fanart background is disabled.
 - Removed torrentgalaxy scraper. torrentio sources many sites including torrentgalaxy.
